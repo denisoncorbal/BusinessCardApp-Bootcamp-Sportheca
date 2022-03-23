@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+        xmlns:android="http://schemas.android.com/apk/res/android"
+>
+    <item
+            android:id="@+id/miCompartilhar"
+            android:title="@string/label_menu_compartilhar"
+    />
+
+    <item
+            android:id="@+id/miApagar"
+            android:title="@string/label_menu_apagar"
+    />
+
+</menu>
